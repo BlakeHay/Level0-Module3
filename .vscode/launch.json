@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "are_You_Happy",
+            "request": "launch",
+            "mainClass": "_01_else_if._4_are_you_happy.are_You_Happy",
+            "projectName": "Level0-Module3_26c0ea08"
+        },
+        {
+            "type": "java",
             "name": "BananaQuiz",
             "request": "launch",
             "mainClass": "_99_extra.BananaQuiz"

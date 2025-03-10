@@ -9,9 +9,9 @@ public class RobotColorChooser {
 	public static void main(String[] args) {
 		Robot rob = newRobot();
 		rob.setpenwidth(10);
-		for (int i = 0; i>= 3; i++;){
+		for (int i = 0; i>= 3; i++){
 			rob.forward(50);
-			rob.right(60)
+			rob.right(60);
 		
 		String prefferedColor = JOptionPane.showInputDialog(null, "What color would you like to see, red, green, or yellow?");
 		if (prefferedColor.equalsIgnoreCase("red")); {
