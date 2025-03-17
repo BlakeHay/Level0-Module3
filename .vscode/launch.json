@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "years_Alive",
+            "request": "launch",
+            "mainClass": "_02_loop_variables._1_years_alive.years_Alive",
+            "projectName": "Level0-Module3_26c0ea08"
+        },
+        {
+            "type": "java",
+            "name": "Choose_Your_Own_Adventure",
+            "request": "launch",
+            "mainClass": "_01_else_if._5_own_adventure.Choose_Your_Own_Adventure",
+            "projectName": "Level0-Module3_26c0ea08"
+        },
+        {
+            "type": "java",
             "name": "are_You_Happy",
             "request": "launch",
             "mainClass": "_01_else_if._4_are_you_happy.are_You_Happy",
